@@ -36,9 +36,9 @@ Probado exhaustivamente en:
 
 ## 🎨 Vista Previa
 
-| Desktop | Móvil |
-|---------|-------|
-| ![Vista Desktop](https://via.placeholder.com/400x300/2c3e50/ecf0f1?text=Desktop+View) | ![Vista Móvil](https://via.placeholder.com/200x300/2c3e50/ecf0f1?text=Mobile+View) |
+| Desktop |
+|---------|
+| ![Vista Desktop](https://via.placeholder.com/400x300/2c3e50/ecf0f1?text=Desktop+View)|
 
 ## 🔮 Roadmap Futuro
 
