@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú Navegación</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <nav>
+        <label class="logo">Menú Principal</label>
+        <ul>
+            <li><a class="active" href="#">Inicio</a></li>
+            <li><a href="#">Lenguajes
+                <i class="fas fa-caret-down"></i>
+            </a>
+                <ul>
+                    <li><a href="#">Python</a></li>
+                    <li><a href="#">JQuery</a></li>
+                    <li><a href="#">Javascript</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Diseño Web
+                <i class="fas fa-caret-down"></i>
+            </a>
+                <ul>
+                    <li><a href="#">Front End</a></li>
+                    <li><a href="#">Back End</a></li>
+                    <li><a href="#">Otros
+                        <i class="fas fa-caret-right"></i>
+                    </a>
+                        <ul>
+                            <li><a href="#">Enlaces</a></li>
+                            <li><a href="#">Trabajos</a></li>
+                            <li><a href="#">Estado</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="#">Contacto</a></li>
+        </ul>  
+
+        <div class="search-icon">
+            <span class="fas fa-search"></span>
+        </div>
+        <div class="cancel-icon">
+            <span class="fas fa-times"></span>
+        </div>
+        <form action="#">
+            <input type="search" class="search-data" placeholder="Buscar..." required>
+            <button type="submit" class="fas fa-search"></button>
+        </form>
+    </nav>
+    
+    <div class="content">
+        <header class="space">Menú de Navegación con Búsqueda</header>
+        <div class="space text">
+            Creado con HTML, CSS y JavaScript
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
