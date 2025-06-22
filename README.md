@@ -38,7 +38,7 @@ Probado exhaustivamente en:
 
 | Desktop |
 |---------|
-| ![Vista Desktop](https://via.placeholder.com/400x300/2c3e50/ecf0f1?text=Desktop+View)|
+| ![Vista Desktop](https://josecondori-ai.github.io/Menu-Navegacion/)|
 
 ## 🔮 Roadmap Futuro
 
