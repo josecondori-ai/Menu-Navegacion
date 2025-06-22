@@ -1,8 +1,11 @@
 # 🍔 Menú de Navegación con Búsqueda
-
-
-
 Menú de navegación  con función de búsqueda integrada y submenús desplegables, ideal para proyectos web modernos.
+
+
+https://github.com/user-attachments/assets/ab4ef132-7122-43c4-8971-d70a8438136d
+
+
+
 
 ## 🌟 Características Principales
 
